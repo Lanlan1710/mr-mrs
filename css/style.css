@@ -221,7 +221,7 @@
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     font-size: 30px;
-    color: var(--bs-secondary);
+    color: var(--bs-green);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -241,7 +241,7 @@
     width: 100%;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(../img/thiepcuoi-2.jpg) center;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(../img/bg/5.png) center;
     object-fit: cover;
     background-repeat: no-repeat;
 }
@@ -406,7 +406,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/anh-9.jpg) center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/nc-1.jpeg) center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
